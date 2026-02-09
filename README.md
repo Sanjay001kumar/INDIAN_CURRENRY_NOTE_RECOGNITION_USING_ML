@@ -7,7 +7,7 @@
 
 | Web App UI |
 |-------------|
-| ![Web App Preview](static/preview/flask_ui.png) | 
+| ![Web App Preview](project_screenshots/home.png) | 
 
 ---
 
